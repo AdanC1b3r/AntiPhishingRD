@@ -26,10 +26,10 @@ ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
 
-# Los registros de host personalizados se enumeran aquí.
+# Los registros de hosts personalizados se enumeran aquí.
 
 
-# Fin de los registros de host personalizados.
+# Fin de los registros de hosts personalizados.
 # Empezar AdanC1b3r
 
 #=====================================================================================
