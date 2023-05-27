@@ -9,7 +9,7 @@
 # Página de inicio del proyecto: https://github.com/AdanC1b3r/AntiPhishingRD
 # Lanzamientos de proyectos: https://github.com/AdanC1b3r/AntiPhishingRD/releases
 #
-# ================================================= ==============
+# ====================================================================================
 
 127.0.0.1 localhost
 127.0.0.1 localhost.localdomain
@@ -32,8 +32,9 @@ ff02::3 ip6-allhosts
 # Fin de los registros de host personalizados.
 # Empezar AdanC1b3r
 
-#=====================================
+#=====================================================================================
 # Título: Anfitriones aportados por AdanC1b3r
 #http://
 
 0.0.0.0 ffd.com
+0.0.0.0 hhhgg.net
