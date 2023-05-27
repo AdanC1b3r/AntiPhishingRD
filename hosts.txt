@@ -36,5 +36,6 @@ ff02::3 ip6-allhosts
 # Título: Anfitriones aportados por AdanC1b3r
 #http://
 
+# Añadida el 26 de mayo de 2023
 0.0.0.0 ffd.com
 0.0.0.0 hhhgg.net
