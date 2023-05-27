@@ -842,6 +842,7 @@
 0.0.0.0 free-dating-girls.online
 0.0.0.0 freeadult.games
 0.0.0.0 www.freeadult.games
+0.0.0.0 youtube.com
 0.0.0.0 freeallsafe.com
 0.0.0.0 freegiftcards.co
 0.0.0.0 freshdepor.com
