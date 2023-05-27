@@ -1,0 +1,39 @@
+# Título: AdanC1b3r/AntiPhishingRD
+#
+# Este archivo es una colección de dominios Phishing compartidos por la comunidad, para ayudar a mejorar la seguridad del ciberespacio de la Republica Dominicana.
+#
+# Fecha: 26 de mayo de 2023 12:00:00 (UTC)
+# Número de dominios únicos: 0
+#
+# Obtenga la última versión de este archivo: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+# Página de inicio del proyecto: https://github.com/AdanC1b3r/AntiPhishingRD
+# Lanzamientos de proyectos: https://github.com/AdanC1b3r/AntiPhishingRD/releases
+#
+# ================================================= ==============
+
+127.0.0.1 localhost
+127.0.0.1 localhost.localdomain
+127.0.0.1 local
+255.255.255.255 broadcasthost
+::1 localhost
+::1 ip6-localhost
+::1 ip6-loopback
+fe80::1%lo0 localhost
+ff00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
+0.0.0.0 0.0.0.0
+
+# Los registros de host personalizados se enumeran aquí.
+
+
+# Fin de los registros de host personalizados.
+# Empezar AdanC1b3r
+
+#=====================================
+# Título: Anfitriones aportados por AdanC1b3r
+#http://
+
+0.0.0.0 ffd.com
