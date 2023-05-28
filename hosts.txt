@@ -3,7 +3,7 @@
 # Este archivo es una colección de dominios Phishing, para ayudar a mejorar la seguridad del ciberespacio de la Republica Dominicana.
 #
 # Fecha: 27 de mayo de 2023 09:00:00 (UTC)
-# Número de dominios únicos: 0
+# Número de dominios únicos: 1
 #
 # Obtenga la última versión de este archivo: https://raw.githubusercontent.com/AdanC1b3r/AntiPhishingRD/main/hosts.txt
 # Página de inicio del proyecto: https://github.com/AdanC1b3r/AntiPhishingRD
