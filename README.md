@@ -1,5 +1,5 @@
 # AntiPhishingRD
-#Este proyecto se creó con el fin de que la comunidad comparta dominios de Phishing registrados en el país, para ayudar a mejorar la seguridad del ciberespacio de la República Dominicana🇩🇴
+#Este proyecto se creó con el fin de que la comunidad comparta dominios de Phishing registrados en el país, para ayudar a mejorar la seguridad del ciberespacio de la República Dominicana.
 
 #Si recibió un correo falso (phishing), Reenvíe el correo (fordward) a antiphishingrd@hotmail.com. Si desea, puede enviar la cabecera del correo electrónico para permitir obtener mayor cantidad de información y detalles del mismo.
 
