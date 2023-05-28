@@ -2,7 +2,7 @@
 #
 # Este archivo es una colección de dominios Phishing, para ayudar a mejorar la seguridad del ciberespacio de la Republica Dominicana.
 #
-# Fecha: 26 de mayo de 2023 12:00:00 (UTC)
+# Fecha: 27 de mayo de 2023 09:00:00 (UTC)
 # Número de dominios únicos: 0
 #
 # Obtenga la última versión de este archivo: https://raw.githubusercontent.com/AdanC1b3r/AntiPhishingRD/main/hosts.txt
@@ -36,6 +36,6 @@ ff02::3 ip6-allhosts
 # Título: Anfitriones aportados por AdanC1b3r
 #http://
 
-# Añadida el 26 de mayo de 2023
-0.0.0.0 ffd.com
-0.0.0.0 hhhgg.net
+# Añadida el 27 de mayo de 2023
+0.0.0.0 kilometresalute.cn
+
