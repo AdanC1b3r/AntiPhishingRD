@@ -10,7 +10,7 @@
 #Whatsapp: https://chat.whatsapp.com/D2x1jyUhWqy14UPNDfa9Dm
 
 #Obtenga la última versión de la Blacklist: https://raw.githubusercontent.com/AdanC1b3r/AntiPhishingRD/main/hosts.txt 
-Este filtro puede ser utilizado en cualquier bloqueador DNS o bloqueador de contenido del navegador como uBlock.
+Este filtro puede ser utilizado en cualquier servidor DNS o bloqueador de contenido del navegador como uBlock.
 # Página de inicio del proyecto: https://github.com/AdanC1b3r/AntiPhishingRD
 # Lanzamientos de proyectos: https://github.com/AdanC1b3r/AntiPhishingRD/releases
 
