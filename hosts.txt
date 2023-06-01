@@ -2,7 +2,7 @@
 #
 # Este archivo es una colección de dominios Phishing registrados en el pais, para ayudar a mejorar la seguridad del ciberespacio de la Republica Dominicana.
 #
-# Version: 2023.13.05
+# Version: 2023.013.05
 #
 # Ultima actualización: 31 de mayo de 2023 11:00:00 (UTC)
 # Número de dominios únicos: 5
