@@ -11,7 +11,7 @@
 # Página de inicio del proyecto: https://github.com/AdanC1b3r/AntiPhishingRD
 # Lanzamientos de proyectos: https://github.com/AdanC1b3r/AntiPhishingRD/releases
 #
-# ====================================================================================
+# ======================================================================================
 
 127.0.0.1 localhost
 127.0.0.1 localhost.localdomain
