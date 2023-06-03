@@ -5,8 +5,8 @@
 # Version: 2023.013.05
 # Expiración: Actualizado frecuentemente 
 #
-# Ultima actualización: 2 de junio de 2023 11:17:00 (UTC)
-# Número de dominios únicos: 8
+# Ultima actualización: 3 de junio de 2023 11:50:00 (UTC)
+# Número de dominios únicos: 9
 #
 # Obtenga la última versión de este archivo: https://raw.githubusercontent.com/AdanC1b3r/AntiPhishingRD/main/hosts.txt Este filtro puede ser utilizado en cualquier bloqueador DNS o bloqueador de contenido del navegador como uBlock.
 # Página de inicio del proyecto: https://github.com/AdanC1b3r/AntiPhishingRD
@@ -60,3 +60,6 @@ ff02::3 ip6-allhosts
 
 # Añadida el 2 de junio de 2023
 0.0.0.0 activar588.royalwebhosting.net
+
+# Añadida el 3 de junio de 2023
+0.0.0.0 netmalayalam.com
