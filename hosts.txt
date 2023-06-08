@@ -5,8 +5,8 @@
 # Version: 2023.013.05
 # Expiración: Actualizado frecuentemente 
 #
-# Ultima actualización: 5 de junio de 2023 1:10:00 (UTC)
-# Número de dominios únicos: 10
+# Ultima actualización: 7 de junio de 2023 11:54:00 (UTC)
+# Número de dominios únicos: 18
 #
 # Obtenga la última versión de este archivo: https://raw.githubusercontent.com/AdanC1b3r/AntiPhishingRD/main/hosts.txt Este filtro puede ser utilizado en cualquier bloqueador DNS o bloqueador de contenido del navegador como uBlock.
 # Página de inicio del proyecto: https://github.com/AdanC1b3r/AntiPhishingRD
@@ -66,3 +66,17 @@ ff02::3 ip6-allhosts
 
 # Añadida el 5 de junio de 2023
 0.0.0.0 pulseaqui.iceiy.com
+
+# Añadida el 6 de junio de 2023
+
+0.0.0.0 myjackpot.com
+0.0.0.0 trk.contentbasepro.com
+0.0.0.0 slotland.eu
+0.0.0.0 wuqconn.com
+0.0.0.0 trk.kontentcloudclub.com
+0.0.0.0 nrjxf.networklinksremote.com
+
+# Añadida el 7 de junio de 2023
+
+0.0.0.0 trk.verse-content.com
+0.0.0.0 h0zi.linkforusers.com
