@@ -5,8 +5,8 @@
 # Version: 2023.013.05
 # Expiración: Actualizado frecuentemente 
 #
-# Ultima actualización: 12 de junio de 2023 9:24:00 (UTC)
-# Número de dominios únicos: 21
+# Ultima actualización: 19 de junio de 2023 11:11:00 (UTC)
+# Número de dominios únicos: 24
 #
 # Obtenga la última versión de este archivo: https://raw.githubusercontent.com/AdanC1b3r/AntiPhishingRD/main/hosts.txt Este filtro puede ser utilizado en cualquier bloqueador DNS o bloqueador de contenido del navegador como uBlock.
 # Página de inicio del proyecto: https://github.com/AdanC1b3r/AntiPhishingRD
@@ -86,3 +86,17 @@ ff02::3 ip6-allhosts
 0.0.0.0 trk.enhancingcontent.com
 0.0.0.0 trk.hamster-nest.com
 0.0.0.0 winuniquecasino-point.com
+
+# Añadida el 13 de junio de 2023
+
+0.0.0.0 ctch.researchactions.com
+
+# Añadida el 15 de junio de 2023
+
+0.0.0.0 twostringwire.com
+
+# Añadida el 16 de junio de 2023
+
+0.0.0.0 seguridadpreventiva.ezzeblog.com 
+0.0.0.0 suspended-website.com
+0.0.0.0 activereserve.liveblog365.com
