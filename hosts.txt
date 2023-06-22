@@ -5,8 +5,8 @@
 # Version: 2023.013.05
 # Expiración: Actualizado frecuentemente 
 #
-# Ultima actualización: 19 de junio de 2023 11:11:00 (UTC)
-# Número de dominios únicos: 24
+# Ultima actualización: 21 de junio de 2023 11:20:00 (UTC)
+# Número de dominios únicos: 26
 #
 # Obtenga la última versión de este archivo: https://raw.githubusercontent.com/AdanC1b3r/AntiPhishingRD/main/hosts.txt Este filtro puede ser utilizado en cualquier bloqueador DNS o bloqueador de contenido del navegador como uBlock.
 # Página de inicio del proyecto: https://github.com/AdanC1b3r/AntiPhishingRD
@@ -100,3 +100,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 seguridadpreventiva.ezzeblog.com 
 0.0.0.0 suspended-website.com
 0.0.0.0 activereserve.liveblog365.com
+
+# Añadida el 21 de junio de 2023
+
+0.0.0.0 banssrvzsaline.ezzeblog.com
+0.0.0.0 activebanrese.ezzeblog.com
