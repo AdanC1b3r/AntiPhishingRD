@@ -5,8 +5,8 @@
 # Version: 2023.013.05
 # Expiración: Actualizado frecuentemente 
 #
-# Ultima actualización: 26 de junio de 2023 11:42:00 (UTC)
-# Número de dominios únicos: 30
+# Ultima actualización: 26 de junio de 2023 4:00:00 (UTC)
+# Número de dominios únicos: 31
 #
 # Obtenga la última versión de este archivo: https://raw.githubusercontent.com/AdanC1b3r/AntiPhishingRD/main/hosts.txt Este filtro puede ser utilizado en cualquier bloqueador DNS o bloqueador de contenido del navegador como uBlock.
 # Página de inicio del proyecto: https://github.com/AdanC1b3r/AntiPhishingRD
@@ -118,3 +118,4 @@ ff02::3 ip6-allhosts
 
 0.0.0.0 adsurf.trktom.com
 0.0.0.0 thisnewsnow.com
+0.0.0.0 qatarglobalgt.org
