@@ -5,8 +5,8 @@
 # Version: 2023.013.05
 # Expiración: Actualizado frecuentemente 
 #
-# Ultima actualización: 3 de julio de 2023 2:01:00 (UTC)
-# Número de dominios únicos: 32
+# Ultima actualización: 4 de julio de 2023 3:52:00 (UTC)
+# Número de dominios únicos: 33
 #
 # Obtenga la última versión de este archivo: https://raw.githubusercontent.com/AdanC1b3r/AntiPhishingRD/main/hosts.txt Este filtro puede ser utilizado en cualquier bloqueador DNS o bloqueador de contenido del navegador como uBlock.
 # Página de inicio del proyecto: https://github.com/AdanC1b3r/AntiPhishingRD
@@ -123,3 +123,7 @@ ff02::3 ip6-allhosts
 # Añadida el 3 de julio de 2023
 
 0.0.0.0 habillitarbannrreservas.ezzeblog.com
+
+# Añadida el 4 de julio de 2023
+
+0.0.0.0 wonderfulbunch.com.au
