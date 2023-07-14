@@ -31,7 +31,6 @@ ff02::3 ip6-allhosts
 
 # Los registros de hosts personalizados se enumeran aquí.
 
-
 # Fin de los registros de hosts personalizados.
 # Empezar AdanC1b3r
 
