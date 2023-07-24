@@ -5,8 +5,8 @@
 # Version: 2023.013.05
 # Expiración: Actualizado frecuentemente 
 #
-# Ultima actualización: 14 de julio de 2023 3:58:00 (UTC)
-# Número de dominios únicos: 35
+# Ultima actualización: 24 de julio de 2023 12:33:00 (UTC)
+# Número de dominios únicos: 38
 #
 # Obtenga la última versión de este archivo: https://raw.githubusercontent.com/AdanC1b3r/AntiPhishingRD/main/hosts.txt Este filtro puede ser utilizado en cualquier bloqueador DNS o bloqueador de contenido del navegador como uBlock.
 # Página de inicio del proyecto: https://github.com/AdanC1b3r/AntiPhishingRD
@@ -134,3 +134,9 @@ ff02::3 ip6-allhosts
 # Añadida el 12 de julio de 2023
 
 0.0.0.0 facturacioncredenciales.iceiy.com
+
+# Añadida el 24 de julio de 2023
+
+0.0.0.0 dev-iniciayvalidacuentamsn.pantheonsite.io
+0.0.0.0 reservetrustrd.liveblog365.com
+0.0.0.0 ingresesbancalinea.iceiy.com
