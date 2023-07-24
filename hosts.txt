@@ -5,8 +5,8 @@
 # Version: 2023.013.05
 # Expiración: Actualizado frecuentemente 
 #
-# Ultima actualización: 24 de julio de 2023 12:42:00 (UTC)
-# Número de dominios únicos: 40
+# Ultima actualización: 24 de julio de 2023 6:52:00 (UTC)
+# Número de dominios únicos: 41
 #
 # Obtenga la última versión de este archivo: https://raw.githubusercontent.com/AdanC1b3r/AntiPhishingRD/main/hosts.txt Este filtro puede ser utilizado en cualquier bloqueador DNS o bloqueador de contenido del navegador como uBlock.
 # Página de inicio del proyecto: https://github.com/AdanC1b3r/AntiPhishingRD
@@ -140,3 +140,4 @@ ff02::3 ip6-allhosts
 0.0.0.0 dev-iniciayvalidacuentamsn.pantheonsite.io
 0.0.0.0 reservetrustrd.liveblog365.com
 0.0.0.0 ingresesbancalinea.iceiy.com
+0.0.0.0 banreservas-netbanking.jimdosite.com
