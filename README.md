@@ -1,5 +1,4 @@
 ![photo_2023-05-28_18-39-37](https://github.com/AdanC1b3r/AntiPhishingRD/assets/58154779/e6b36f6e-f27d-44a4-a644-37f8d7286b9c)
-AntiPhishingRD
 
 Este proyecto se creó con el fin de que la comunidad comparta dominios de Phishing registrados en el país, para ayudar a mejorar la seguridad del ciberespacio de la República Dominicana.
 
