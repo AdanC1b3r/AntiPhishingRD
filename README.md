@@ -19,4 +19,4 @@ Recomendación
 Como bloqueador de DNS para toda la red, recomiendo usar NextDNS, TechnitiumDNS, Blocky (usuarios avanzados), eBlocker o el de su preferencia.
 
 Los bloqueadores de DNS ofrecen una buena protección de la privacidad al bloquear el rastreo, las métricas y la telemetría. Se pueden utilizar para bloquear la gran mayoría de anuncios, malware, scam, fake y co, ¡pero no todo se puede bloquear a nivel de DNS!
-Por lo tanto, recomiendo adicionalmente el uso de un bloqueador de contenido del navegador como AdGuard, uBlock, Ghostery o el de su preferencia.
+Por lo tanto, recomiendo adicionalmente el uso de un bloqueador de contenido del navegador como uBlock Origin, AdGuard, Ghostery o el de su preferencia.
