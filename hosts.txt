@@ -5,8 +5,8 @@
 # Version: 2023.013.05
 # Expiración: Actualizado frecuentemente 
 #
-# Ultima actualización: 7 de agosto de 2023 2:07:00 (UTC)
-# Número de dominios únicos: 45
+# Ultima actualización: 8 de agosto de 2023 1:05:00 (UTC)
+# Número de dominios únicos: 46
 #
 # Obtenga la última versión de este archivo: https://raw.githubusercontent.com/AdanC1b3r/AntiPhishingRD/main/hosts.txt Este filtro puede ser utilizado en cualquier bloqueador DNS o bloqueador de contenido del navegador como uBlock.
 # Página de inicio del proyecto: https://github.com/AdanC1b3r/AntiPhishingRD
@@ -151,3 +151,7 @@ ff02::3 ip6-allhosts
 # Añadida el 1 de agosto de 2023
 
 0.0.0.0 h0zi.linkforusers.com
+
+# Añadida el 8 de agosto de 2023
+
+0.0.0.0 dealitho.com
