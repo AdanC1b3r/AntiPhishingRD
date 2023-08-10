@@ -1,6 +1,6 @@
 ![photo_2023-05-28_18-39-37](https://github.com/AdanC1b3r/AntiPhishingRD/assets/58154779/e6b36f6e-f27d-44a4-a644-37f8d7286b9c)
 
-Este proyecto está destinado a la Cyber-Inteligencia en la lucha contra el phishing para detectar, neutralizar los ataques, identificar amenazas específicas y ayudar a mejorar la seguridad del ciberespacio de la República Dominicana🇩🇴
+Este proyecto está destinado a la Cyber-Inteligencia en la lucha contra el phishing para detectar, neutralizar los ataques, identificar amenazas específicas y ayudar a mejorar la seguridad en el Ciberespacio de la República Dominicana.
 
 Si recibió un correo falso (phishing), Reenvíe el correo (fordward) a antiphishingrd@hotmail.com. Si desea, puede enviar la cabecera del correo electrónico para permitir obtener mayor cantidad de información y detalles del mismo.
 
