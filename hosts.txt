@@ -5,8 +5,8 @@
 # Version: 2023.013.05
 # Expiración: Actualizado frecuentemente 
 #
-# Ultima actualización: 14 de agosto de 2023 3:39:00 (UTC)
-# Número de dominios únicos: 48
+# Ultima actualización: 14 de agosto de 2023 10:57:00 (UTC)
+# Número de dominios únicos: 49
 #
 # Obtenga la última versión de este archivo: https://raw.githubusercontent.com/AdanC1b3r/AntiPhishingRD/main/hosts.txt Este filtro puede ser utilizado en cualquier bloqueador DNS o bloqueador de contenido del navegador como uBlock.
 # Página de inicio del proyecto: https://github.com/AdanC1b3r/AntiPhishingRD
@@ -147,6 +147,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 popularenlinia.com
 0.0.0.0 xn--popularenlnea-5ib.com
 0.0.0.0 bonopadre.com
+0.0.0.0 100bocadillos.com
 
 # Añadida el 1 de agosto de 2023
 
