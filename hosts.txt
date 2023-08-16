@@ -5,8 +5,8 @@
 # Version: 2023.013.05
 # Expiración: Actualizado frecuentemente 
 #
-# Ultima actualización: 14 de agosto de 2023 10:57:00 (UTC)
-# Número de dominios únicos: 49
+# Ultima actualización: 15 de agosto de 2023 08:10:00 (UTC)
+# Número de dominios únicos: 51
 #
 # Obtenga la última versión de este archivo: https://raw.githubusercontent.com/AdanC1b3r/AntiPhishingRD/main/hosts.txt Este filtro puede ser utilizado en cualquier bloqueador DNS o bloqueador de contenido del navegador como uBlock.
 # Página de inicio del proyecto: https://github.com/AdanC1b3r/AntiPhishingRD
@@ -164,3 +164,8 @@ ff02::3 ip6-allhosts
 # Añadida el 14 de agosto de 2023
 
 0.0.0.0 medical-discoveries.info
+
+# Añadida el 15 de agosto de 2023
+
+0.0.0.0 trackvue.store
+0.0.0.0 keltikchains.com
