@@ -5,8 +5,8 @@
 # Version: 2023.013.05
 # Expiración: Actualizado frecuentemente 
 #
-# Ultima actualización: 22 de agosto de 2023 09:53:00 (UTC)
-# Número de dominios únicos: 51
+# Ultima actualización: 23 de agosto de 2023 10:00:00 (UTC)
+# Número de dominios únicos: 52
 #
 # Obtenga la última versión de este archivo: https://raw.githubusercontent.com/AdanC1b3r/AntiPhishingRD/main/hosts.txt Este filtro puede ser utilizado en cualquier bloqueador DNS o bloqueador de contenido del navegador como uBlock.
 # Página de inicio del proyecto: https://github.com/AdanC1b3r/AntiPhishingRD
@@ -169,3 +169,7 @@ ff02::3 ip6-allhosts
 
 0.0.0.0 trackvue.store
 0.0.0.0 keltikchains.com
+
+# Añadida el 23 de agosto de 2023
+
+0.0.0.0 bonoemergencia.com
