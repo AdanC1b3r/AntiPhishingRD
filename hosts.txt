@@ -5,8 +5,8 @@
 # Version: 2023.013.05
 # Expiración: Actualizado frecuentemente 
 #
-# Ultima actualización: 1 de octubre de 2023 10:30:00 (UTC)
-# Número de dominios únicos: 54
+# Ultima actualización: 5 de octubre de 2023 9:15:00 (UTC)
+# Número de dominios únicos: 55
 #
 # Obtenga la última versión de este archivo: https://raw.githubusercontent.com/AdanC1b3r/AntiPhishingRD/main/hosts.txt Este filtro puede ser utilizado en cualquier bloqueador DNS o bloqueador de contenido del navegador como uBlock.
 # Página de inicio del proyecto: https://github.com/AdanC1b3r/AntiPhishingRD
@@ -181,3 +181,7 @@ ff02::3 ip6-allhosts
 # Añadida el 28 de septiembre de 2023
 
 0.0.0.0 amourharmonyjourney.ru
+
+# Añadida el 5 de octubre de 2023
+
+0.0.0.0 actualizar-facturacion.pdvmx.com
