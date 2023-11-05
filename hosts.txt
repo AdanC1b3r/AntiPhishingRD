@@ -1,6 +1,6 @@
 # Título: AdanC1b3r/AntiPhishingRD
 #
-# Este archivo es una colección de dominios Phishing registrados en el pais, para ayudar a mejorar la seguridad en el Ciberespacio de la Republica Dominicana.
+# Este archivo es una colección de dominios Phishing reportados en el pais, para ayudar a mejorar la seguridad en el Ciberespacio de la Republica Dominicana.
 #
 # Version: 2023.013.05
 # Expiración: Actualizado frecuentemente 
