@@ -193,3 +193,7 @@ ff02::3 ip6-allhosts
 # Añadida el 25 de octubre de 2023
 
 0.0.0.0 a.dzw12.xyz
+
+# Añadida el 10 de noviembre de 2023
+
+0.0.0.0 bononavideño.info
