@@ -5,7 +5,7 @@
 # Version: 2023.013.05
 # Expiración: Actualizado frecuentemente 
 #
-# Ultima actualización: 19 de noviembre de 2023 1:33:00 (UTC)
+# Ultima actualización: 30 de noviembre de 2023 8:56:00 (UTC)
 # Número de dominios únicos: 58
 #
 # Obtenga la última versión de este archivo: https://raw.githubusercontent.com/AdanC1b3r/AntiPhishingRD/main/hosts.txt Este filtro puede ser utilizado en cualquier bloqueador DNS o bloqueador de contenido del navegador como uBlock.
