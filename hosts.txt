@@ -2,10 +2,10 @@
 #
 # Este archivo es una colección de dominios Phishing reportados en el pais, para ayudar a mejorar la seguridad en el Ciberespacio de la Republica Dominicana.
 #
-# Version: 2023.013.05
+# Version: 2024.013.05
 # Expiración: Actualizado frecuentemente 
 #
-# Ultima actualización: 3 de febrero de 2024 10:51:00 (UTC)
+# Ultima actualización: 18 de marzo de 2024 2:48:00 (UTC)
 # Número de dominios únicos: 60
 #
 # Obtenga la última versión de este archivo: https://raw.githubusercontent.com/AdanC1b3r/AntiPhishingRD/main/hosts.txt Este filtro puede ser utilizado en cualquier bloqueador DNS o bloqueador de contenido del navegador como uBlock.
