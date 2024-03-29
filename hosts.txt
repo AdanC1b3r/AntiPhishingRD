@@ -206,7 +206,7 @@ ff02::3 ip6-allhosts
 
 0.0.0.0 bononavideño.com
 
-# Añadida el 25 de diciembre de 2024
+# Añadida el 25 de marzo de 2024
 
 0.0.0.0 bonoalimentate.info
 0.0.0.0 bonomil.com
