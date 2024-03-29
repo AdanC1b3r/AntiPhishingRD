@@ -5,8 +5,8 @@
 # Version: 2024.013.05
 # Expiración: Actualizado frecuentemente 
 #
-# Ultima actualización: 18 de marzo de 2024 2:48:00 (UTC)
-# Número de dominios únicos: 60
+# Ultima actualización: 29 de marzo de 2024 1:43:00 (UTC)
+# Número de dominios únicos: 62
 #
 # Obtenga la última versión de este archivo: https://raw.githubusercontent.com/AdanC1b3r/AntiPhishingRD/main/hosts.txt Este filtro puede ser utilizado en cualquier bloqueador DNS o bloqueador de contenido del navegador como uBlock.
 # Página de inicio del proyecto: https://github.com/AdanC1b3r/AntiPhishingRD
@@ -205,3 +205,8 @@ ff02::3 ip6-allhosts
 # Añadida el 14 de diciembre de 2023
 
 0.0.0.0 bononavideño.com
+
+# Añadida el 25 de diciembre de 2024
+
+0.0.0.0 bonoalimentate.info
+0.0.0.0 bonomil.com
