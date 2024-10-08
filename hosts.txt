@@ -5,8 +5,8 @@
 # Version: 2024.013.05
 # Expiración: Actualizado frecuentemente 
 #
-# Ultima actualización: 18 de septiembre de 2024 11:00:00 (UTC)
-# Número de dominios únicos: 66
+# Ultima actualización: 7 de octubre de 2024 10:45:00 (UTC)
+# Número de dominios únicos: 67
 #
 # Obtenga la última versión de este archivo: https://raw.githubusercontent.com/AdanC1b3r/AntiPhishingRD/main/hosts.txt Este filtro puede ser utilizado en cualquier bloqueador DNS o bloqueador de contenido del navegador como uBlock.
 # Página de inicio del proyecto: https://github.com/AdanC1b3r/AntiPhishingRD
@@ -223,3 +223,7 @@ ff02::3 ip6-allhosts
 
 0.0.0.0 dev-credibh-de.pantheonsite.io
 0.0.0.0 earseponefour.com
+
+# Añadida el 7 de octubre de 2024
+
+0.0.0.0 xx-n0tificacion-nlinea-ppgo.weebly.com
