@@ -5,8 +5,8 @@
 # Version: 2024.013.05
 # Expiración: Actualizado frecuentemente 
 #
-# Ultima actualización: 24 de octubre de 2024 5:16:00 (UTC)
-# Número de dominios únicos: 69
+# Ultima actualización: 5 de noviembre de 2024 6:14:00 (UTC)
+# Número de dominios únicos: 70
 #
 # Obtenga la última versión de este archivo: https://raw.githubusercontent.com/AdanC1b3r/AntiPhishingRD/main/hosts.txt Este filtro puede ser utilizado en cualquier bloqueador DNS o bloqueador de contenido del navegador como uBlock.
 # Página de inicio del proyecto: https://github.com/AdanC1b3r/AntiPhishingRD
@@ -232,3 +232,7 @@ ff02::3 ip6-allhosts
 
 0.0.0.0 seccionesrdsitingbdh.weebly.com
 0.0.0.0 support1-microsoft2024.glitch.me
+
+# Añadida el 5 de noviembre de 2024
+
+0.0.0.0 bononavidad.net
